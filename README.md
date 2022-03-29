@@ -3,6 +3,7 @@
 
 ## Software
 [PySal: Python Spatial Analysis Library](https://pysal.org/)  
+[GeoPandas: Geospatial Extension of Pandas Python Library](https://geopandas.org/)  
 [sf: Simple Features for R](https://r-spatial.github.io/sf/)  
 [QGIS: Free and Open Source Geographic Information System](https://qgis.org/)  
 
