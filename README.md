@@ -5,10 +5,15 @@
 [PySal: Python Spatial Analysis Library](https://pysal.org/)  
 [GeoPandas: Geospatial Extension of Pandas Python Library](https://geopandas.org/)  
 [sf: Simple Features for R](https://r-spatial.github.io/sf/)  
-[QGIS: Free and Open Source Geographic Information System](https://qgis.org/)  
-
+[spdep: Spatial Dependence Weighting Schemes and Statistics](https://r-spatial.github.io/spdep/)  
+[stars: Spatiotemporal Arrays Raster and Vector Datacubes](https://r-spatial.github.io/stars/) 
+[mapview: Interactive viewing of spatial data in R](https://r-spatial.github.io/mapview/)  
 [rasterVis: Raster Visualization in R](https://oscarperpinan.github.io/rastervis/)  
-[Rayshader: 3D Maps in R](https://www.rayshader.com/)
+[Rayshader: 3D Maps in R](https://www.rayshader.com/)  
+[QGIS: Free and Open Source Geographic Information System](https://qgis.org/)  
+[PostGIS: Spatial and Geographic objects for PostgreSQL](https://postgis.net/)   
+[Apache Sedona: Spatial Extension of Apache Spark](https://sedona.apache.org/)  
+
 
 ## Books
 [Spatial Data Science with applications in R](https://keen-swartz-3146c4.netlify.app/)  
