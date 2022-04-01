@@ -35,3 +35,10 @@
 [Multi-Resolution Land Characteristics (MRLC) Consortium](https://www.mrlc.gov/)  
 [Resourcewatch](https://resourcewatch.org/data/explore)  
 
+
+## extra need to format and organize
+https://kepler.gl/  
+
+https://training.datapolitan.com/qgis-training/Introduction_to_GIS_Fundamentals  
+
+https://training.datapolitan.com/qgis-training/Intermediate_GIS/   
