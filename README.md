@@ -23,7 +23,8 @@
 [Spatial Data Science with R and “terra”](https://rspatial.org/terra/index.html)  
 [Spatio-Temporal Statistics with R](https://spacetimewithr.org/book)    
 [Analyzing US Census Data: Methods, Maps, and Models in R](https://walker-data.com/census-r/index.html)  
-[Displaying time series, spatial and space-time data with R](https://oscarperpinan.github.io/bookvis/)  
+[Displaying time series, spatial and space-time data with R](https://oscarperpinan.github.io/bookvis/) 
+[The Geography of Transportation Systems](https://transportgeography.org/)
 
 ## Other learning resources
 [Dani Arribas-Bel's Geographic Data Science Course Material](http://darribas.org/gds_course/content/home.html)  
