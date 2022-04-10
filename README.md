@@ -1,5 +1,4 @@
-# odsc-2022
-
+# Introduction to Geospatial Computing Open Data Science Conference 2022
 
 ## Software
 [PySal: Python Spatial Analysis Library](https://pysal.org/)  
