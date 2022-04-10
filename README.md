@@ -11,7 +11,7 @@
 [rasterVis: Raster Visualization in R](https://oscarperpinan.github.io/rastervis/)  
 [Rayshader: 3D Maps in R](https://www.rayshader.com/)  
 [QGIS: Free and Open Source Geographic Information System](https://qgis.org/)  
-[PostGIS: Spatial and Geographic objects for PostgreSQL](https://postgis.net/)   
+[PostGIS: Spatial and Geographic objects for PostgreSQL](https://postgis.net/)     
 [Apache Sedona: Spatial Extension of Apache Spark](https://sedona.apache.org/)  
 
 
@@ -23,13 +23,13 @@
 [Spatial Data Science with R and “terra”](https://rspatial.org/terra/index.html)  
 [Spatio-Temporal Statistics with R](https://spacetimewithr.org/book)    
 [Analyzing US Census Data: Methods, Maps, and Models in R](https://walker-data.com/census-r/index.html)  
-[Displaying time series, spatial and space-time data with R](https://oscarperpinan.github.io/bookvis/) 
+[Displaying time series, spatial and space-time data with R](https://oscarperpinan.github.io/bookvis/)    
 [The Geography of Transportation Systems](https://transportgeography.org/)
 
 ## Other learning resources
 [Dani Arribas-Bel's Geographic Data Science Course Material](http://darribas.org/gds_course/content/home.html)  
 [NSF's National Ecological Observatory Network (NEON) Tutorials on Spatial Data Processing](https://www.neonscience.org/resources/learning-hub/tutorials)  
-[GIS&T Body of Knowledge](https://gistbok.ucgis.org/)
+[GIS&T Body of Knowledge](https://gistbok.ucgis.org/)  
 [Common GIS File Fornmat](https://gisgeography.com/gis-formats/)
 
 ## Data
