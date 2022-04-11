@@ -26,6 +26,7 @@
 [The Geography of Transportation Systems](https://transportgeography.org/)
 
 ## Other learning resources
+[Resources for Deep Learning with satellite & Aerial Imagery](https://github.com/robmarkcole/satellite-image-deep-learning)  
 [Dani Arribas-Bel's Geographic Data Science Course Material](http://darribas.org/gds_course/content/home.html)  
 [NSF's National Ecological Observatory Network (NEON) Tutorials on Spatial Data Processing](https://www.neonscience.org/resources/learning-hub/tutorials)  
 [GIS&T Body of Knowledge](https://gistbok.ucgis.org/)  
